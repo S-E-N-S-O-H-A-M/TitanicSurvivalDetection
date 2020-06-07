@@ -1,1 +1,1 @@
-# TitanicSurvivalDetection
+# TitanicSurvivalClassifier
